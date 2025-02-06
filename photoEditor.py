@@ -241,7 +241,4 @@ mainWindow.mainloop()
 
 
 
-# Main Application
-mainWindow = Tk()
-FrontEnd(mainWindow)
-mainWindow.mainloop()
+
